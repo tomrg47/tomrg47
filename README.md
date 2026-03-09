@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:e63946,50:ff7b00,100:2b9348&height=200&section=header&text=Tom%20Arnett&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineering%20Student%20@%20Bournemouth%20University&descAlignY=58&descColor=ffffffcc)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF7B00&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Vue+%7C+TypeScript+%7C+C%23+%7C+Python;Azure+DevOps+Engineer;Always+building+something+new...)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF7B00&center=true&vCenter=true&width=888&lines=Full+Stack+Developer;Vue+%7C+TypeScript+%7C+C%23+%7C+Python;Azure+DevOps+Engineer;Always+building+something+new...)](https://readme-typing-svg.demolab.com)
 
 ---
 
