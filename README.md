@@ -61,7 +61,7 @@ const tom: Developer = {
 ## 👀 View Previous Work
 
 [![Website](https://img.shields.io/badge/bedbugz.uk-0d1117?style=for-the-badge&logo=googlechrome&logoColor=2b9348)](https://bedbugz.uk)
-[![Website](https://img.shields.io/badge/QuackAttack-0d1117?style=for-the-badge&logo=googlechrome&logoColor=2b9348)](https://quackattack.tomarnett.co.uk)
+[![Website](https://img.shields.io/badge/QuackAttack-0d1117?style=for-the-badge&logo=googlechrome&logoColor=2b9348)](http://quackattack.tomarnett.co.uk/)
 
 ---
 
