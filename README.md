@@ -11,7 +11,7 @@ const tom: Developer = {
   name:     "Tom Arnett",
   location: "Bournemouth, UK 🇬🇧",
   role:     "Full Stack Developer",
-  certifications: ["Umbraco Expert", "Umbraco Professional"]
+  certifications: ["Umbraco Expert", "Umbraco Professional"],
   studying: "Software Engineer @ Bournemouth University (4th Year)",
   projectLinks:  ["https://bedbugz.uk"],
   linkedin: "https://www.linkedin.com/in/tom-arnett-959606170/",
