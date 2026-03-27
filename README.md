@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:e63946,50:ff7b00,100:2b9348&height=200&width=888&section=header&text=Tom%20Arnett&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineering%20Student%20@%20Bournemouth%20University&descAlignY=58&descColor=ffffffcc)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=FF7B00&center=true&vCenter=true&width=888&lines=Full+Stack+Developer;Vue+%7C+TypeScript+%7C+C%23+%7C+Python;Azure+DevOps+Engineer;Always+building+something+new...)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=FF7B00&center=true&vCenter=true&width=888&lines=Full+Stack+Developer;Vue+%7C+TypeScript+%7C+C%23+%7C+Python;Umbraco+Expert;Always+building+something+new...)](https://readme-typing-svg.demolab.com)
 
 ---
 
@@ -11,6 +11,7 @@ const tom: Developer = {
   name:     "Tom Arnett",
   location: "Bournemouth, UK 🇬🇧",
   role:     "Full Stack Developer",
+  certifications: ["Umbraco Expert", "Umbraco Professional"]
   studying: "Software Engineer @ Bournemouth University (4th Year)",
   projectLinks:  ["https://bedbugz.uk"],
   linkedin: "https://www.linkedin.com/in/tom-arnett-959606170/",
